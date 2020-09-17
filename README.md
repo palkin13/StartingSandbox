@@ -1,2 +1,2 @@
-# StartingSandbox
+# Sandbox
 Created with CodeSandbox
